@@ -42,8 +42,28 @@ body {
 #maincontent h2 {
 	position: fixed;
 	text-align: center;
+	text-decoration: underline;
 }
 #maincontent p {
 	text-align: center;
 	color: #000;
+}
+#maincontent table tr td p {
+	font-size: 18px;
+}
+#maincontent table tr td h4 {
+	text-decoration: underline;
+	text-align: center;
+}
+#maincontent table tr td img {
+	margin: 2px;
+	padding: 2px;
+}
+#maincontent table tr td img {
+	margin: 2px;
+	padding: 2px;
+}
+#maincontent table tr td img {
+	margin: 2px;
+	padding: 2px;
 }
