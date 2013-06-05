@@ -67,3 +67,11 @@ body {
 	margin: 2px;
 	padding: 2px;
 }
+#maincontent table tr td img {
+	margin: 2px;
+	padding: 2px;
+	left: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+}
