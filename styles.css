@@ -40,9 +40,9 @@ body {
 	text-align: center;
 }
 #maincontent h2 {
-	position: fixed;
-	text-align: center;
+	position: static;
 	text-decoration: underline;
+	text-align: center;
 }
 #maincontent p {
 	text-align: center;
@@ -58,14 +58,17 @@ body {
 #maincontent table tr td img {
 	margin: 2px;
 	padding: 2px;
+	align: center
 }
 #maincontent table tr td img {
 	margin: 2px;
 	padding: 2px;
+	text-align: center;
 }
 #maincontent table tr td img {
 	margin: 2px;
 	padding: 2px;
+	text-align: center;
 }
 #maincontent table tr td img {
 	margin: 2px;
@@ -74,4 +77,12 @@ body {
 	top: auto;
 	right: auto;
 	bottom: auto;
+	text-align: center;
+}
+#maincontent table tr td img {
+	left: 2px;
+	top: 2px;
+	right: 2px;
+	bottom: 2px;
+	text-align: center;
 }
