@@ -86,3 +86,6 @@ body {
 	bottom: 2px;
 	text-align: center;
 }
+#maincontent table tr td a img {
+	padding: 10px;
+}
